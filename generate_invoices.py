@@ -36,9 +36,9 @@ CSV_PATH = os.path.join(os.path.dirname(__file__), "invoice_data.csv")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "invoices")
 
 YOUR_BUSINESS = {
-    "name": "Your Name / Business Name",
+    "name": "Juan José Ortiz / Hope",
     "tagline": "Python & Excel Automation Services",
-    "email": "you@example.com",
+    "email": "juanjortiz016@gmail.com",
     "location": "Bogota, Colombia",
 }
 
