@@ -1,0 +1,7 @@
+Invoice Number,Client Name,Client Email,Client Address,Invoice Date,Due Date,Description,Quantity,Unit Price
+INV-1001,Bright Path Marketing,billing@brightpathmkt.com,"221 Baker St, Austin, TX",2026-08-01,2026-08-15,Social media content package (August),1,850.00
+INV-1001,Bright Path Marketing,billing@brightpathmkt.com,"221 Baker St, Austin, TX",2026-08-01,2026-08-15,Landing page copy revisions,3,60.00
+INV-1002,Sierra Home Goods,accounts@sierrahomegoods.com,"48 Ridgeline Ave, Denver, CO",2026-08-03,2026-08-17,Inventory automation script - monthly maintenance,1,300.00
+INV-1002,Sierra Home Goods,accounts@sierrahomegoods.com,"48 Ridgeline Ave, Denver, CO",2026-08-03,2026-08-17,Excel dashboard update,2,75.00
+INV-1002,Sierra Home Goods,accounts@sierrahomegoods.com,"48 Ridgeline Ave, Denver, CO",2026-08-03,2026-08-17,Bug fix - report export,1,50.00
+INV-1003,Nova Fitness Studio,pay@novafitness.com,"9 Crescent Way, Miami, FL",2026-08-05,2026-08-19,Class booking system - Phase 1 development,20,45.00
